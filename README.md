@@ -1,6 +1,6 @@
 # commonly-reusable-codes
 
-##Português:
+## Português:
 
 SASS: Codigos SASS reutilizaveis , utilizando a metodologia Atomic Design 
 
@@ -9,7 +9,7 @@ JavaScript: Códigos JavaScript reutilizaveis , tanto para acessibilidade quanto
 Acessibilidade: nesta pasta contem algumas modificações do código da biblioteca de acessibilidade [HaTeMiLe](https://github.com/hatemile/hatemile-for-javascript) desenvolvida por [Carlson Santana Cruz](https://github.com/carlsonsantana)
 
 
-##English:
+## English:
 
 SASS: Reusable SASS codes, using the Atomic Design methodology
 
